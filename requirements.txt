@@ -2,7 +2,11 @@ langgraph
 langchain
 langchain-openai
 langchain-anthropic
+langchain_ollama
 pydantic
 python-dotenv
 mcp
 langchain-mcp-adapters
+PyGithub
+argparse
+tqdm
