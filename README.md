@@ -46,7 +46,7 @@ The `create_env.sh` script creates a `.env` file with the following variables:
 - `OPENAI_API_KEY`: OpenAI API key, if you use OpenAI.
 - `ANTHROPIC_API_KEY`: Anthropic API key, if you use Claude.
 
-The application also reads a system prompt from `src/prompts/system_prompt.json` and a project prompt from `config.json`.
+The application also reads a system prompt from `src/prompts/system_prompt.json`.
 
 ## Usage
 
