@@ -1,6 +1,6 @@
-# Github Project AI Agent
+# LLM-Powered GitHub Project Automation
 
-An AI-powered Python application that turns a natural-language request into a GitHub project. The agent generates a structured project specification, creates a GitHub Project v2, creates the related issues in a repository, and links those issues to the project.
+An LLM-powered Python application that turns a natural-language request into a GitHub project. The application generates a structured project specification, creates a GitHub Project v2, creates the related issues in the target repository, and links them to the project. It supports multiple LLM providers so you can choose the backend that works best for you.
 
 ## Features
 
@@ -104,7 +104,7 @@ Example prompt:
 Create an e-commerce project with product management, a shopping cart, online payment, and a customer account area.
 ```
 
-The agent will generate the corresponding GitHub project and repository issues.
+The application will generate the corresponding GitHub project and repository issues.
 
 ## Troubleshooting
 
